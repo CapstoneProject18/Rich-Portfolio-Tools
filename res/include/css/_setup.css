@@ -1,0 +1,42 @@
+/* performed by Alan Lara
+   halanlara@yahoo.es
+   License: none (public domain)
+*/
+
+.floating{position: absolute;}
+.relative{position: relative;}
+.fixed{position: fixed;}
+.static{position: static;}
+
+.columnleft{float: left;}
+.columnright{float: right;}
+.columnclear{clear: both;}
+
+.textleft{text-align: left;}
+.textcenter{text-align: center;}
+.textright{text-align: right;}
+.textjustify{text-align: justify;}
+
+.link{cursor: pointer;}
+.hide{display: none;}
+.invisible{visibility: hidden;}
+
+.spacer1{width: 1px;}
+.spacer3{width: 3px;}
+.spacer5{width: 5px;}
+.spacer10{width: 10px;}
+.spacer15{width: 15px;}
+.spacer20{width: 20px;}
+.spacer25{width: 25px;}
+.spacer50{width: 50px;}
+.spacer100{width: 100px;}
+
+.divisor1{height: 1px;}
+.divisor3{height: 3px;}
+.divisor5{height: 5px;}
+.divisor10{height: 10px;}
+.divisor15{height: 15px;}
+.divisor20{height: 20px;}
+.divisor25{height: 25px;}
+.divisor50{height: 50px;}
+.divisor100{height: 100px;}
