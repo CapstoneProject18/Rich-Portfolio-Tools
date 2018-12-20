@@ -1,1 +1,0 @@
-var bad_words = ["ytyutyu", "ytutyu", "bitch", "fuck", "idiot"];
